@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "https://portal.lobby.tech/static/js/main.ff0dac2b.chunk.js",
-    "main.js.map": "https://portal.lobby.tech/static/js/main.ff0dac2b.chunk.js.map",
+    "main.js": "https://portal.lobby.tech/static/js/main.05fa37ef.chunk.js",
+    "main.js.map": "https://portal.lobby.tech/static/js/main.05fa37ef.chunk.js.map",
     "runtime-main.js": "https://portal.lobby.tech/static/js/runtime-main.7f42c381.js",
     "runtime-main.js.map": "https://portal.lobby.tech/static/js/runtime-main.7f42c381.js.map",
     "static/js/2.0d9d3f8e.chunk.js": "https://portal.lobby.tech/static/js/2.0d9d3f8e.chunk.js",
     "static/js/2.0d9d3f8e.chunk.js.map": "https://portal.lobby.tech/static/js/2.0d9d3f8e.chunk.js.map",
     "index.html": "https://portal.lobby.tech/index.html",
-    "precache-manifest.9abab84c5bd30cb7252648fa35c11c62.js": "https://portal.lobby.tech/precache-manifest.9abab84c5bd30cb7252648fa35c11c62.js",
+    "precache-manifest.66b5c5e4385bcfed19f28656be02c479.js": "https://portal.lobby.tech/precache-manifest.66b5c5e4385bcfed19f28656be02c479.js",
     "service-worker.js": "https://portal.lobby.tech/service-worker.js",
     "static/js/2.0d9d3f8e.chunk.js.LICENSE": "https://portal.lobby.tech/static/js/2.0d9d3f8e.chunk.js.LICENSE",
     "static/media/logo.png": "https://portal.lobby.tech/static/media/logo.7f12e1c7.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.7f42c381.js",
     "static/js/2.0d9d3f8e.chunk.js",
-    "static/js/main.ff0dac2b.chunk.js"
+    "static/js/main.05fa37ef.chunk.js"
   ]
 }
