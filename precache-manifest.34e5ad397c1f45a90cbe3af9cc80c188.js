@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c499f8dce7db8ddf6994413dd0f0c03",
+    "revision": "85d0bfbd439194384e6678ca9d97e45f",
     "url": "https://portal.lobby.tech/index.html"
   },
   {
-    "revision": "d08cc7a88ab57d6efa98",
-    "url": "https://portal.lobby.tech/static/js/2.5baf491c.chunk.js"
+    "revision": "22093129cd9d01dff475",
+    "url": "https://portal.lobby.tech/static/js/2.b60023e9.chunk.js"
   },
   {
     "revision": "5a0d989568a936270ef6c2e0e2d0229c",
-    "url": "https://portal.lobby.tech/static/js/2.5baf491c.chunk.js.LICENSE"
+    "url": "https://portal.lobby.tech/static/js/2.b60023e9.chunk.js.LICENSE"
   },
   {
-    "revision": "002f75e249c81e8bfefc",
-    "url": "https://portal.lobby.tech/static/js/main.efabff0a.chunk.js"
+    "revision": "d363baba49af607b17b7",
+    "url": "https://portal.lobby.tech/static/js/main.7463a6c4.chunk.js"
   },
   {
     "revision": "bc64ace469b3801a0b4c",
