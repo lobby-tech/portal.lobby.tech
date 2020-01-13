@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "https://portal.lobby.tech/static/js/main.7463a6c4.chunk.js",
-    "main.js.map": "https://portal.lobby.tech/static/js/main.7463a6c4.chunk.js.map",
-    "runtime-main.js": "https://portal.lobby.tech/static/js/runtime-main.aea3aa03.js",
-    "runtime-main.js.map": "https://portal.lobby.tech/static/js/runtime-main.aea3aa03.js.map",
-    "static/js/2.b60023e9.chunk.js": "https://portal.lobby.tech/static/js/2.b60023e9.chunk.js",
-    "static/js/2.b60023e9.chunk.js.map": "https://portal.lobby.tech/static/js/2.b60023e9.chunk.js.map",
+    "main.js": "https://portal.lobby.tech/static/js/main.7f67661c.chunk.js",
+    "main.js.map": "https://portal.lobby.tech/static/js/main.7f67661c.chunk.js.map",
+    "runtime-main.js": "https://portal.lobby.tech/static/js/runtime-main.f0dba1b4.js",
+    "runtime-main.js.map": "https://portal.lobby.tech/static/js/runtime-main.f0dba1b4.js.map",
+    "static/js/2.a95c6833.chunk.js": "https://portal.lobby.tech/static/js/2.a95c6833.chunk.js",
+    "static/js/2.a95c6833.chunk.js.map": "https://portal.lobby.tech/static/js/2.a95c6833.chunk.js.map",
     "index.html": "https://portal.lobby.tech/index.html",
-    "precache-manifest.34e5ad397c1f45a90cbe3af9cc80c188.js": "https://portal.lobby.tech/precache-manifest.34e5ad397c1f45a90cbe3af9cc80c188.js",
+    "precache-manifest.70d4bbb37052e1480614c77f62a5e9c4.js": "https://portal.lobby.tech/precache-manifest.70d4bbb37052e1480614c77f62a5e9c4.js",
     "service-worker.js": "https://portal.lobby.tech/service-worker.js",
-    "static/js/2.b60023e9.chunk.js.LICENSE": "https://portal.lobby.tech/static/js/2.b60023e9.chunk.js.LICENSE",
+    "static/js/2.a95c6833.chunk.js.LICENSE": "https://portal.lobby.tech/static/js/2.a95c6833.chunk.js.LICENSE",
     "static/media/logo.png": "https://portal.lobby.tech/static/media/logo.7f12e1c7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aea3aa03.js",
-    "static/js/2.b60023e9.chunk.js",
-    "static/js/main.7463a6c4.chunk.js"
+    "static/js/runtime-main.f0dba1b4.js",
+    "static/js/2.a95c6833.chunk.js",
+    "static/js/main.7f67661c.chunk.js"
   ]
 }
