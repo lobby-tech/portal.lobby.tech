@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "https://portal.lobby.tech/static/js/main.c6729a4b.chunk.js",
-    "main.js.map": "https://portal.lobby.tech/static/js/main.c6729a4b.chunk.js.map",
+    "main.js": "https://portal.lobby.tech/static/js/main.c3a23485.chunk.js",
+    "main.js.map": "https://portal.lobby.tech/static/js/main.c3a23485.chunk.js.map",
     "runtime-main.js": "https://portal.lobby.tech/static/js/runtime-main.f0dba1b4.js",
     "runtime-main.js.map": "https://portal.lobby.tech/static/js/runtime-main.f0dba1b4.js.map",
-    "static/js/2.51842282.chunk.js": "https://portal.lobby.tech/static/js/2.51842282.chunk.js",
-    "static/js/2.51842282.chunk.js.map": "https://portal.lobby.tech/static/js/2.51842282.chunk.js.map",
+    "static/js/2.cee8f8c7.chunk.js": "https://portal.lobby.tech/static/js/2.cee8f8c7.chunk.js",
+    "static/js/2.cee8f8c7.chunk.js.map": "https://portal.lobby.tech/static/js/2.cee8f8c7.chunk.js.map",
     "index.html": "https://portal.lobby.tech/index.html",
-    "precache-manifest.02ffbef529d381598f73d0be3d94850a.js": "https://portal.lobby.tech/precache-manifest.02ffbef529d381598f73d0be3d94850a.js",
+    "precache-manifest.b7855efda7305ac4072af40d6f4a2154.js": "https://portal.lobby.tech/precache-manifest.b7855efda7305ac4072af40d6f4a2154.js",
     "service-worker.js": "https://portal.lobby.tech/service-worker.js",
-    "static/js/2.51842282.chunk.js.LICENSE": "https://portal.lobby.tech/static/js/2.51842282.chunk.js.LICENSE",
+    "static/js/2.cee8f8c7.chunk.js.LICENSE": "https://portal.lobby.tech/static/js/2.cee8f8c7.chunk.js.LICENSE",
     "static/media/logo.png": "https://portal.lobby.tech/static/media/logo.7f12e1c7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f0dba1b4.js",
-    "static/js/2.51842282.chunk.js",
-    "static/js/main.c6729a4b.chunk.js"
+    "static/js/2.cee8f8c7.chunk.js",
+    "static/js/main.c3a23485.chunk.js"
   ]
 }
