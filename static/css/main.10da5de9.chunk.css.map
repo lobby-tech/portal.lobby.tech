@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.css"],"names":[],"mappings":"AAAA,oBACE,qBACF,CACA,gBACE,YACF","file":"main.10da5de9.chunk.css","sourcesContent":["div.rbc-event-label {\n  width: 100vw !important;\n}\na.rbc-show-more {\n  display: none;\n}"]}
