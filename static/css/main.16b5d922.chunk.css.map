@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.css"],"names":[],"mappings":"AAAA,sCACE,sBACF,CACA,gBACE,YACF,CACA,kBACE,kBACF","file":"main.16b5d922.chunk.css","sourcesContent":["div.rbc-time-view div.rbc-event-label {\n  display: none !important;\n}\na.rbc-show-more {\n  display: none;\n}\ndiv.rbc-btn-group {\n  margin-bottom: 10px;\n}"]}
