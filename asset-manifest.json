@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "https://portal.lobby.tech/static/css/main.a7f3347b.chunk.css",
-    "main.js": "https://portal.lobby.tech/static/js/main.823474c5.chunk.js",
-    "main.js.map": "https://portal.lobby.tech/static/js/main.823474c5.chunk.js.map",
+    "main.js": "https://portal.lobby.tech/static/js/main.8627564e.chunk.js",
+    "main.js.map": "https://portal.lobby.tech/static/js/main.8627564e.chunk.js.map",
     "runtime-main.js": "https://portal.lobby.tech/static/js/runtime-main.f0dba1b4.js",
     "runtime-main.js.map": "https://portal.lobby.tech/static/js/runtime-main.f0dba1b4.js.map",
     "static/css/2.25b83785.chunk.css": "https://portal.lobby.tech/static/css/2.25b83785.chunk.css",
-    "static/js/2.972a92fa.chunk.js": "https://portal.lobby.tech/static/js/2.972a92fa.chunk.js",
-    "static/js/2.972a92fa.chunk.js.map": "https://portal.lobby.tech/static/js/2.972a92fa.chunk.js.map",
+    "static/js/2.24c0ef42.chunk.js": "https://portal.lobby.tech/static/js/2.24c0ef42.chunk.js",
+    "static/js/2.24c0ef42.chunk.js.map": "https://portal.lobby.tech/static/js/2.24c0ef42.chunk.js.map",
     "index.html": "https://portal.lobby.tech/index.html",
-    "precache-manifest.0509c2122b8749947e5f4525effb27b8.js": "https://portal.lobby.tech/precache-manifest.0509c2122b8749947e5f4525effb27b8.js",
+    "precache-manifest.50a9f4742c381ef85e2bc0dce4a77521.js": "https://portal.lobby.tech/precache-manifest.50a9f4742c381ef85e2bc0dce4a77521.js",
     "service-worker.js": "https://portal.lobby.tech/service-worker.js",
     "static/css/2.25b83785.chunk.css.map": "https://portal.lobby.tech/static/css/2.25b83785.chunk.css.map",
     "static/css/main.a7f3347b.chunk.css.map": "https://portal.lobby.tech/static/css/main.a7f3347b.chunk.css.map",
-    "static/js/2.972a92fa.chunk.js.LICENSE.txt": "https://portal.lobby.tech/static/js/2.972a92fa.chunk.js.LICENSE.txt",
+    "static/js/2.24c0ef42.chunk.js.LICENSE.txt": "https://portal.lobby.tech/static/js/2.24c0ef42.chunk.js.LICENSE.txt",
     "static/media/logo.png": "https://portal.lobby.tech/static/media/logo.7f12e1c7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f0dba1b4.js",
     "static/css/2.25b83785.chunk.css",
-    "static/js/2.972a92fa.chunk.js",
+    "static/js/2.24c0ef42.chunk.js",
     "static/css/main.a7f3347b.chunk.css",
-    "static/js/main.823474c5.chunk.js"
+    "static/js/main.8627564e.chunk.js"
   ]
 }
