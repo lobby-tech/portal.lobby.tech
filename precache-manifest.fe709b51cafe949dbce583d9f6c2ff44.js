@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "746ef03fea901bed190f3b20d1b947f7",
+    "revision": "aa0f2d68f264eda8cc25daf37dbcd380",
     "url": "https://portal.lobby.tech/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://portal.lobby.tech/static/css/2.25b83785.chunk.css"
   },
   {
-    "revision": "9c35a41da150788a3571",
+    "revision": "6cf3f7290b73b547c2c3",
     "url": "https://portal.lobby.tech/static/css/main.a7f3347b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://portal.lobby.tech/static/js/2.3fb590ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c35a41da150788a3571",
-    "url": "https://portal.lobby.tech/static/js/main.07f43444.chunk.js"
+    "revision": "6cf3f7290b73b547c2c3",
+    "url": "https://portal.lobby.tech/static/js/main.52d8bfa5.chunk.js"
   },
   {
     "revision": "5db8df04bba0a7d8cb00",
