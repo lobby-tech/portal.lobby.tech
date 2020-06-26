@@ -1,42 +1,45 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
-  "manifestVersion": "1.7",
-  "id": "9063d0a8-aaf6-409a-8432-be557f548224",
-  "version": "1.0.0",
-  "packageName": "tech.lobby.portal",
-  "icons": {
-    "color": "icon.png",
-    "outline": "icon.png"
-  },
-  "developer": {
-    "name": "Lobby Tech",
-    "websiteUrl": "https://lobby.tech",
-    "privacyUrl": "https://lobby.tech/politica-de-privacidade",
-    "termsOfUseUrl": "https://lobby.tech/termos-de-uso"
-  },
-  "name": {
-    "short": "Lobby"
-  },
-  "accentColor": "#200085",
-  "description": {
-    "short": "Sistema de gestão do local de trabalho",
-    "full": "Gerencie as necessidades dos funcionários com facilidade. Receba, organize e responda as solicitações dos colaboradores com um helpdesk interno fácil de usar, seja para demandas no escritório ou home office."
-  },
-  "staticTabs": [
-    {
-        "entityId": "tech.lobby.portal",
-        "name": "Lobby",
-        "contentUrl": "https://portal.lobby.tech/#/tickets/novo",
-        "websiteUrl": "https://portal.lobby.tech",
-        "scopes": [
-          "personal"
-        ]
-    }
-  ],
-  "permissions": [
-    "identity"
-  ],
-  "validDomains": [
-    "*.lobby.tech"
-  ]
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.7",
+    "version": "1.0.0",
+    "showLoadingIndicator": true,
+    "id": "46ffa4a1-e2a6-4948-b035-28f13d9ee5be",
+    "packageName": "tech.lobby.portal",
+    "developer": {
+        "name": "Lobby Tech",
+        "websiteUrl": "https://lobby.tech",
+        "privacyUrl": "https://lobby.tech/politica-de-privacidade",
+        "termsOfUseUrl": "https://lobby.tech/termos-de-uso"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "Lobby",
+        "full": ""
+    },
+    "description": {
+        "short": "Sistema de gestão do local de trabalho",
+        "full": "Gerencie as necessidades dos funcionários com facilidade. Receba, organize e responda as solicitações dos colaboradores com um helpdesk interno fácil de usar, seja para demandas no escritório ou home office."
+    },
+    "accentColor": "#FFFFFF",
+    "staticTabs": [
+        {
+            "entityId": "tech.lobby.portal",
+            "name": "Lobby",
+            "contentUrl": "https://portal.lobby.tech/#/tickets/novo",
+            "websiteUrl": "https://portal.lobby.tech",
+            "scopes": [
+                "personal"
+            ]
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": [
+        "portal.lobby.tech"
+    ]
 }
