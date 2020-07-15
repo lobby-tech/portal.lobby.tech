@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://portal.lobby.tech/precache-manifest.196588968bda6ea9efd0d4403039b02c.js"
+  "https://portal.lobby.tech/precache-manifest.30d5ec204a1742992b356f8c352653ab.js"
 );
 
 self.addEventListener('message', (event) => {
