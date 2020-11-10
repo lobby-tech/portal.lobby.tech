@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "https://portal.lobby.tech/static/css/main.a7f3347b.chunk.css",
-    "main.js": "https://portal.lobby.tech/static/js/main.94fa64c7.chunk.js",
-    "main.js.map": "https://portal.lobby.tech/static/js/main.94fa64c7.chunk.js.map",
+    "main.js": "https://portal.lobby.tech/static/js/main.f7740a68.chunk.js",
+    "main.js.map": "https://portal.lobby.tech/static/js/main.f7740a68.chunk.js.map",
     "runtime-main.js": "https://portal.lobby.tech/static/js/runtime-main.df94499f.js",
     "runtime-main.js.map": "https://portal.lobby.tech/static/js/runtime-main.df94499f.js.map",
     "static/css/2.e428341d.chunk.css": "https://portal.lobby.tech/static/css/2.e428341d.chunk.css",
-    "static/js/2.d9bdaacb.chunk.js": "https://portal.lobby.tech/static/js/2.d9bdaacb.chunk.js",
-    "static/js/2.d9bdaacb.chunk.js.map": "https://portal.lobby.tech/static/js/2.d9bdaacb.chunk.js.map",
+    "static/js/2.8a15435c.chunk.js": "https://portal.lobby.tech/static/js/2.8a15435c.chunk.js",
+    "static/js/2.8a15435c.chunk.js.map": "https://portal.lobby.tech/static/js/2.8a15435c.chunk.js.map",
     "index.html": "https://portal.lobby.tech/index.html",
-    "precache-manifest.fcf07c6a448d910d0f793312fd90c744.js": "https://portal.lobby.tech/precache-manifest.fcf07c6a448d910d0f793312fd90c744.js",
+    "precache-manifest.f4b126d0ff791341b3b2621b25eb2a7e.js": "https://portal.lobby.tech/precache-manifest.f4b126d0ff791341b3b2621b25eb2a7e.js",
     "service-worker.js": "https://portal.lobby.tech/service-worker.js",
     "static/css/2.e428341d.chunk.css.map": "https://portal.lobby.tech/static/css/2.e428341d.chunk.css.map",
     "static/css/main.a7f3347b.chunk.css.map": "https://portal.lobby.tech/static/css/main.a7f3347b.chunk.css.map",
-    "static/js/2.d9bdaacb.chunk.js.LICENSE.txt": "https://portal.lobby.tech/static/js/2.d9bdaacb.chunk.js.LICENSE.txt",
+    "static/js/2.8a15435c.chunk.js.LICENSE.txt": "https://portal.lobby.tech/static/js/2.8a15435c.chunk.js.LICENSE.txt",
     "static/media/logo.png": "https://portal.lobby.tech/static/media/logo.7f12e1c7.png",
     "static/media/service.2e40814c.svg": "https://portal.lobby.tech/static/media/service.2e40814c.svg",
     "static/media/slack-integration.png": "https://portal.lobby.tech/static/media/slack-integration.9c4865bb.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.df94499f.js",
     "static/css/2.e428341d.chunk.css",
-    "static/js/2.d9bdaacb.chunk.js",
+    "static/js/2.8a15435c.chunk.js",
     "static/css/main.a7f3347b.chunk.css",
-    "static/js/main.94fa64c7.chunk.js"
+    "static/js/main.f7740a68.chunk.js"
   ]
 }
