@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g id="Group_2417" data-name="Group 2417" transform="translate(15781 2913)">
+    <g id="Group_2416" data-name="Group 2416">
+      <g id="Group_2413" data-name="Group 2413">
+        <rect id="Rectangle_2430" data-name="Rectangle 2430" width="128" height="128" transform="translate(-15781 -2913)" fill="#fff" opacity="0"/>
+        <path id="Path_7070" data-name="Path 7070" d="M-15760.308-2849h86.573l4.255,47.009-7.294,9.349-9.059,3.811h-64.633l-9.843-7.757-4.882-9.514Z" fill="#ffaba9"/>
+        <g id="shopping-bag" transform="translate(-15820.785 -2913)">
+          <g id="Group_2412" data-name="Group 2412" transform="translate(53.02)">
+            <g id="Group_2411" data-name="Group 2411" transform="translate(0)">
+              <path id="Path_7069" data-name="Path 7069" d="M154.449,105.555l-5.716-72.029A9,9,0,0,0,139.8,25.25H128.508v-.507a24.742,24.742,0,1,0-49.484,0v.507H67.733A9,9,0,0,0,58.8,33.516l-5.718,72.049A20.842,20.842,0,0,0,73.861,128h59.808a20.842,20.842,0,0,0,20.78-22.445ZM86.521,24.742a17.245,17.245,0,0,1,34.49,0v.507H86.521Zm56.939,91.484a13.207,13.207,0,0,1-9.79,4.276H73.862a13.344,13.344,0,0,1-13.306-14.355L66.273,34.1a1.47,1.47,0,0,1,1.459-1.351H79.023v9.234a3.749,3.749,0,0,0,7.5,0V32.747h34.49v9.234a3.749,3.749,0,1,0,7.5,0V32.747H139.8a1.473,1.473,0,0,1,1.46,1.361l5.716,72.029A13.208,13.208,0,0,1,143.459,116.226Z" transform="translate(-53.02)" fill="#fe5956"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

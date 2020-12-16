@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.js": "https://portal.lobby.tech/static/js/main.b148f25e.chunk.js",
-    "main.js.map": "https://portal.lobby.tech/static/js/main.b148f25e.chunk.js.map",
+    "main.js": "https://portal.lobby.tech/static/js/main.8b3ed512.chunk.js",
+    "main.js.map": "https://portal.lobby.tech/static/js/main.8b3ed512.chunk.js.map",
     "runtime-main.js": "https://portal.lobby.tech/static/js/runtime-main.df94499f.js",
     "runtime-main.js.map": "https://portal.lobby.tech/static/js/runtime-main.df94499f.js.map",
-    "static/js/2.2fe23e6b.chunk.js": "https://portal.lobby.tech/static/js/2.2fe23e6b.chunk.js",
-    "static/js/2.2fe23e6b.chunk.js.map": "https://portal.lobby.tech/static/js/2.2fe23e6b.chunk.js.map",
+    "static/js/2.bff504b7.chunk.js": "https://portal.lobby.tech/static/js/2.bff504b7.chunk.js",
+    "static/js/2.bff504b7.chunk.js.map": "https://portal.lobby.tech/static/js/2.bff504b7.chunk.js.map",
     "index.html": "https://portal.lobby.tech/index.html",
-    "precache-manifest.0c959bc30332e7e704cd1a403393645d.js": "https://portal.lobby.tech/precache-manifest.0c959bc30332e7e704cd1a403393645d.js",
+    "precache-manifest.09ebdfced916780871ce431caa60c747.js": "https://portal.lobby.tech/precache-manifest.09ebdfced916780871ce431caa60c747.js",
     "service-worker.js": "https://portal.lobby.tech/service-worker.js",
-    "static/js/2.2fe23e6b.chunk.js.LICENSE.txt": "https://portal.lobby.tech/static/js/2.2fe23e6b.chunk.js.LICENSE.txt",
+    "static/js/2.bff504b7.chunk.js.LICENSE.txt": "https://portal.lobby.tech/static/js/2.bff504b7.chunk.js.LICENSE.txt",
     "static/media/logo.png": "https://portal.lobby.tech/static/media/logo.7f12e1c7.png",
+    "static/media/service-requests.bdc5a6a9.svg": "https://portal.lobby.tech/static/media/service-requests.bdc5a6a9.svg",
     "static/media/service.2e40814c.svg": "https://portal.lobby.tech/static/media/service.2e40814c.svg",
     "static/media/slack-integration.png": "https://portal.lobby.tech/static/media/slack-integration.9c4865bb.png",
     "static/media/ticket.2ea8e447.svg": "https://portal.lobby.tech/static/media/ticket.2ea8e447.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.df94499f.js",
-    "static/js/2.2fe23e6b.chunk.js",
-    "static/js/main.b148f25e.chunk.js"
+    "static/js/2.bff504b7.chunk.js",
+    "static/js/main.8b3ed512.chunk.js"
   ]
 }
